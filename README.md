@@ -1,10 +1,14 @@
-# Hi there, I'm Nishanth M! 👋
+<div align="center">
+  
+  # Hi there, I'm Nishanth M! 👋
 
-**Aspiring DevOps Engineer | Containerization & Infrastructure Enthusiast**
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+DevOps+Engineer;Containerization+%26+Infrastructure;Backend+Developer;Network+Enthusiast)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthabimanyu001@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/nishanth-abimanyu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthabimanyu001@gmail.com)
+  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/nishanth-abimanyu)
+
+</div>
 
 ---
 
@@ -15,6 +19,8 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 ---
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ### Infrastructure & Containerization
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,18 +38,18 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthabimanyu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthabimanyu&layout=compact&theme=radical)
 
----
-
-## 📄 Resume
-
-![Nishanth's Resume](./resume.png)
+</div>
 
 ---
 
@@ -94,3 +100,11 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 *   ✍️ Curated **250+ Medium articles** on Science, Networking, OSINT, and Tech.
 *   🐧 Contributed to **open-source projects** (Linux tools, documentation).
 *   🗣️ Active on **Quora** & **Reddit**.
+
+---
+
+## 📄 Resume
+
+<div align="center">
+  <img src="./resume.png" alt="Nishanth's Resume" width="800">
+</div>
