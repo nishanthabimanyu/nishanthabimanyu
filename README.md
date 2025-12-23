@@ -1,72 +1,43 @@
-# Nishanth M
+# nishanth m
 
-> **Aspiring DevOps Engineer** | Containerization & Infrastructure | Backend Developer
+> aspiring devops engineer | infrastructure | backend
+> pollachi, in
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nishanth-abimanyu-188b5523a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-  <a href="mailto:nishanthabimanyu001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
-  <a href="https://credly.com/users/nishanth-abimanyu">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" height="25" />
-  </a>
-</div>
+[github](https://github.com/nishanthabimanyu) .
+[linkedin](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a) .
+[email](mailto:nishanthabimanyu001@gmail.com) .
+[credly](https://credly.com/users/nishanth-abimanyu)
 
-<br />
+---
 
-## 👨‍💻 Terminal
+### projects
 
-```bash
-nishanth@devops:~$ whoami
-> Name: Nishanth Abimanyu
-> Role: Backend Developer Intern @ Springer Capital
-> Location: Pollachi, India
+- **[freeCodeCamp-Microservices](https://github.com/nishanthabimanyu/freeCodeCamp-Microservices)**
+  monorepo containing 5 lightweight microservices (file transfer, timestamp, url shortener) built with node.js/express.
 
-nishanth@devops:~$ cat current_focus.txt
-> Orchestrating containers with Docker & Podman
-> Building scalable APIs with Python (Django)
-> Automating workflows with n8n & Linux
-```
+- **[VisuSTEM](https://github.com/nishanthabimanyu/VisuSTEM)**
+  interactive stem education platform utilizing allan paivio's dual coding theory for enhanced cognitive retention.
 
-## 🛠 Tech Stack
+- **[Surya-Siddhanta](https://github.com/nishanthabimanyu/Surya-Siddhanta)**
+  computational archaeology project recovering ancient indian mathematics via ocr and analysis.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,azure,python,django,postgres,git,github,n8n&theme=dark" />
-</div>
+### skills
 
-## 📊 Activity
+`containerization` docker, podman, lxc
+`infrastructure`   linux, azure, bash
+`backend`          python, django, postgresql
+`automation`       n8n, scripting
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthabimanyu&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthabimanyu&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+### experience
 
-## 💼 Experience
+**backend developer intern** @ springer capital (nov 2025 - present)
+> architecting rest apis with django/postgres.
+> orchestrating microservices deployments on azure.
 
-### **Backend Developer Intern** @ Springer Capital
-*Remote | Nov 2025 – Apr 2026*
-*   Architecting RESTful APIs using **Django** & **PostgreSQL**.
-*   Deploying microservices via **Docker** & **Azure**.
-
-## 🚀 Key Projects
-
-<div align="center">
-  <a href="https://github.com/nishanthabimanyu/freeCodeCamp-Microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthabimanyu&repo=freeCodeCamp-Microservices&theme=dracula&hide_border=true&bg_color=0d1117" alt="Microservices Repo" />
-  </a>
-</div>
-
--   **VisuSTEM** - Interactive EdTech platform leveraging Dual Coding Theory.
--   **Game Theory Analysis** - Modeling Iran-Israel conflict scenarios with data-driven insights.
-
-<br />
+---
 
 <details>
-<summary><b>📄 Click to View Resume</b></summary>
-<br />
-<div align="center">
-  <img src="./resume.png" width="800" alt="Nishanth's Resume" />
-</div>
+<summary>resume (click to expand)</summary>
+<br>
+<img src="./resume.png" width="800">
 </details>
