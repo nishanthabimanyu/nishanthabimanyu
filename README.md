@@ -30,6 +30,9 @@ While my public GitHub profile showcases my academic and personal projects, a si
 *   **Technical Writing:** Authored **250+ articles** on Medium covering OSINT, Networking, and Science.
 *   **Internal Tooling:** Much of my automation work (n8n workflows, scripts) is deployed in private production environments.
 
+> 🔎 **[Click here to view the System Architecture of my private projects](./SYSTEMS.md)**
+> (Contains Architecture Diagrams & Technical Specs)
+
 ---
 
 ## 💼 Professional Experience
