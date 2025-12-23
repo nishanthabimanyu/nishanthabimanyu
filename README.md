@@ -41,6 +41,12 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 
 ---
 
+## 📄 Resume
+
+![Nishanth's Resume](./resume.png)
+
+---
+
 ## 💼 Experience
 
 ### **Backend Developer Intern** @ Springer Capital
