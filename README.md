@@ -52,6 +52,12 @@ nishanth@devops:~$ cat current_focus.txt
 
 ## 🚀 Key Projects
 
+<div align="center">
+  <a href="https://github.com/nishanthabimanyu/freeCodeCamp-Microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanthabimanyu&repo=freeCodeCamp-Microservices&theme=dracula&hide_border=true&bg_color=0d1117" alt="Microservices Repo" />
+  </a>
+</div>
+
 -   **VisuSTEM** - Interactive EdTech platform leveraging Dual Coding Theory.
 -   **Game Theory Analysis** - Modeling Iran-Israel conflict scenarios with data-driven insights.
 
