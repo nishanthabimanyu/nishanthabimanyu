@@ -1,11 +1,10 @@
-# Nishanth M
+# Hi there, I'm Nishanth M! 👋
 
 **Aspiring DevOps Engineer | Containerization & Infrastructure Enthusiast**
 
-📍 Pollachi, India  
-📧 [nishanthabimanyu001@gmail.com](mailto:nishanthabimanyu001@gmail.com)  
-📞 +91 6369435574  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a) | [Credly](https://credly.com/users/nishanth-abimanyu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanthabimanyu001@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/nishanth-abimanyu)
 
 ---
 
@@ -15,14 +14,30 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-| Category | Skills |
-|----------|--------|
-| **Containerization** | Docker, Podman, Docker Networking (Bridge, Host) |
-| **Networking** | Cisco Packet Tracer, TCP/IP Basics, Port Management |
-| **Automation** | Python, n8n (Workflows) |
-| **OS & Tools** | Linux, Windows, Git/GitHub/GitLab, Google Workspace |
+### Infrastructure & Containerization
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthabimanyu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthabimanyu&layout=compact&theme=radical)
 
 ---
 
@@ -60,17 +75,16 @@ Aspiring DevOps Engineer focused on **Containerization** and **Infrastructure**.
 
 ---
 
-## 📜 Certifications & Coursework
+## 📜 Certifications
 
-*   **Network Technician Career Path** - Cisco Networking Academy (Network Fundamentals, Routing & Switching)
-*   **Relational Databases** - FreeCodeCamp (PostgreSQL Database)
-*   **Backend Development and API** - FreeCodeCamp (Express framework, VisuSTEM with Manim)
+*   🏆 **Network Technician Career Path** - Cisco Networking Academy
+*   🏆 **Relational Databases** - FreeCodeCamp
+*   🏆 **Backend Development and API** - FreeCodeCamp
 
 ---
 
-## 🌟 Activities & Contributions
+## 🌟 Contributions
 
-*   ✍️ Curated **250+ Medium articles** on Science, Networking, OSINT, Social Engineering, and Technical Storytelling.
-*   🌐 Participated in **Cisco Expert Webinars**.
-*   🐧 Contributed to **open-source projects** on GitHub (technical writing, Linux tools, documentation).
-*   🗣️ Active Contributor on **Quora** & **Reddit**.
+*   ✍️ Curated **250+ Medium articles** on Science, Networking, OSINT, and Tech.
+*   🐧 Contributed to **open-source projects** (Linux tools, documentation).
+*   🗣️ Active on **Quora** & **Reddit**.
