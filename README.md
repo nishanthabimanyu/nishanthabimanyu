@@ -24,8 +24,9 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 
 ## ✍️ Latest Medium Articles
 
-<!-- MEDIUM:START -->
+
 <table>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/building-a-linux-container-in-500-ish-lines-of-code-c9c20fce7336?source=rss-cbd8a2394b65------2">
@@ -37,6 +38,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>I’ve been a Docker user for years. It’s reliable, I know the commands, and honestly, it just works. But recently, I finally decided to swap to Podman ...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/why-5k-developers-are-starring-coinbases-trust-minimizing-x402-payments-protocol-48a3955d730d?source=rss-cbd8a2394b65------2">
@@ -48,6 +50,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Hey guys! As a computer science student, I’m always on a look out for cool new projects on github, especially from big tech companies. I recently stum...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/the-reason-why-real-spies-were-obsessed-with-angry-birds-game-472d00c6c7cb?source=rss-cbd8a2394b65------2">
@@ -59,6 +62,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Note: This is the first part of a series focusing on the story behind the data leaks. Stay tuned for the follow-up article, where we will do a technic...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://blog.cubed.run/open-source-is-not-free-dont-let-a-license-kill-your-startup-5259f8077059?source=rss-cbd8a2394b65------2">
@@ -70,6 +74,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Open Source is NOT Free — Don’t Let a License Kill Your Startup Today I want to share something really important. Actually, I was scrolling through my...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/the-3-trillion-proof-that-you-dont-need-to-be-a-know-it-all-entrepreneur-265198390ccd?source=rss-cbd8a2394b65------2">
@@ -83,7 +88,15 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
   </tr>
 </table>
 
-<!-- MEDIUM:END -->
+
+
+---
+
+## 📱 Termux Series
+
+
+
+
 
 ---
 
