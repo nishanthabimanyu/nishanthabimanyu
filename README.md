@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishanth-abimanyu-188b5523a)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:nishanthabimanyu001@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nishanthabimanyu001)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly)](https://credly.com/users/nishanth-abimanyu)
 
 </div>
@@ -15,9 +16,16 @@
 
 I am a **Computer Science Engineer** and **Aspiring DevOps Specialist** based in Pollachi, India. My focus is on bridging the gap between development and operations through **Containerization (Docker/Podman)** and **Infrastructure Automation**.
 
-I currently work as a **Backend Developer Intern** at **Springer Capital** (Remote, USA), where I architect scalable APIs and manage cloud deployments.
+I currently work as a **Backend Developer Intern** at **[Springer Capital](https://springercapital.com/)** (Remote, USA), where I architect scalable APIs and manage cloud deployments.
 
 > **"Building robust systems that scale."**
+
+---
+
+## ✍️ Latest Medium Articles
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ---
 
@@ -27,17 +35,17 @@ I currently work as a **Backend Developer Intern** at **Springer Capital** (Remo
 While my public GitHub profile showcases my academic and personal projects, a significant portion of my technical contribution happens in **private repositories** and **developer communities**.
 
 *   **Discord Community Leadership:** I am deeply involved in private technical communities on Discord, contributing to internal tools, bots, and architectural discussions.
-*   **Technical Writing:** Authored **250+ articles** on Medium covering OSINT, Networking, and Science.
+*   **Technical Writing:** Authored **250+ articles** on [Medium](https://medium.com/@nishanthabimanyu001) covering OSINT, Networking, and Science.
 *   **Internal Tooling:** Much of my automation work (n8n workflows, scripts) is deployed in private production environments.
 
-> 🔎 **[Click here to view the System Architecture of my private projects](./SYSTEMS.md)**
+> 🔎 **[Click here to view the System Architecture of my private projects](https://github.com/nishanthabimanyu/nishanthabimanyu/blob/main/SYSTEMS.md)**
 > (Contains Architecture Diagrams & Technical Specs)
 
 ---
 
 ## 💼 Professional Experience
 
-### **Backend Developer Intern** | Springer Capital
+### **Backend Developer Intern** | [Springer Capital](https://springercapital.com/)
 *Remote, USA | Nov 2025 – Present*
 
 *   **API Architecture:** Developing high-performance RESTful APIs using **Python (Django)** and **PostgreSQL**.
@@ -78,6 +86,6 @@ While my public GitHub profile showcases my academic and personal projects, a si
 <summary><b>📄 View Full Resume</b></summary>
 <br />
 <div align="center">
-  <img src="./resume.png" width="800" alt="Nishanth's Resume" style="border: 1px solid #ddd; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/nishanthabimanyu/nishanthabimanyu/main/resume.png" width="800" alt="Nishanth's Resume" style="border: 1px solid #ddd; border-radius: 8px;" />
 </div>
 </details>
