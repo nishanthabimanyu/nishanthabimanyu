@@ -43,17 +43,18 @@ def generate_markdown_cards(posts):
         snippet = post['snippet']
         
         # Create a table row for each post (Image Left, Content Right)
-        markdown_output += f"  <tr>\n    <td width=\"30%\">
-      <a href=\"{link}\">
-        <img src=\"{img_url}\" alt=\"{title}\" width=\"100%\">
+        markdown_output += f"""  <tr>
+    <td width="30%">
+      <a href="{link}">
+        <img src="{img_url}" alt="{title}" width="100%">
       </a>
     </td>
     <td>
-      <h3><a href=\"{link}\">{title}</a></h3>
+      <h3><a href="{link}">{title}</a></h3>
       <p>{snippet}</p>
     </td>
   </tr>
-"
+"""
     
     markdown_output += "</table>\n"
     return markdown_output
