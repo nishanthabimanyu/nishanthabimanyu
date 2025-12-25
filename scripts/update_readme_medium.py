@@ -9,43 +9,31 @@ RSS_FEED_URL = "https://medium.com/feed/@nishanthabimanyu001"
 README_FILE = "README.md"
 MAX_LATEST_POSTS = 5
 
-# Hardcoded Termux Series Data (to avoid 403 blocks)
+# Hardcoded Termux Series Data
 TERMUX_SERIES_POSTS = [
     {
         "title": "How to Set Up a Local SQL Database on Your Phone Using Termux (No Root Required)",
-        "link": "https://medium.com/@nishanthabimanyu001/how-to-set-up-a-local-sql-database-on-your-phone-using-termux-no-root-required-69d2644211f3",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "Learn how to install and configure MySQL/MariaDB on your Android device using Termux for local development."
+        "link": "https://medium.com/@nishanthabimanyu001/how-to-set-up-a-local-sql-database-on-your-phone-using-termux-no-root-required-69d2644211f3"
     },
     {
         "title": "Master Linux Without a Laptop — Learn Using Just Your Phone",
-        "link": "https://medium.com/@nishanthabimanyu001/master-linux-without-a-laptop-learn-using-just-your-phone-64860b2d6a78",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "A beginner's guide to using Termux as a powerful Linux environment on the go."
+        "link": "https://medium.com/@nishanthabimanyu001/master-linux-without-a-laptop-learn-using-just-your-phone-64860b2d6a78"
     },
     {
         "title": "Quick Ways to Locate Your Files & Downloads in Termux",
-        "link": "https://medium.com/@nishanthabimanyu001/quick-ways-to-locate-your-files-downloads-in-termux-138374a58b29",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "Master the Termux file system and learn how to navigate between internal storage and Termux home."
+        "link": "https://medium.com/@nishanthabimanyu001/quick-ways-to-locate-your-files-downloads-in-termux-138374a58b29"
     },
     {
         "title": "Hands-On with Termux — Storage Setup, File Downloads, and File System Exploration",
-        "link": "https://medium.com/@nishanthabimanyu001/hands-on-with-termux-storage-setup-file-downloads-and-file-system-exploration-21c60be5508c",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "Deep dive into termux-setup-storage and managing your mobile workspace efficiently."
+        "link": "https://medium.com/@nishanthabimanyu001/hands-on-with-termux-storage-setup-file-downloads-and-file-system-exploration-21c60be5508c"
     },
     {
         "title": "How to Fix Termux Update Errors by Changing Mirrors…",
-        "link": "https://medium.com/@nishanthabimanyu001/how-to-fix-termux-update-errors-by-changing-mirrors-5311f970e70a",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "Solving the 'Repository is under maintenance' and connection errors in Termux."
+        "link": "https://medium.com/@nishanthabimanyu001/how-to-fix-termux-update-errors-by-changing-mirrors-5311f970e70a"
     },
     {
         "title": "Understanding NFC — Insights and Risks from a Hacker’s Viewpoint",
-        "link": "https://medium.com/@nishanthabimanyu001/understanding-nfc-insights-and-risks-from-a-hackers-viewpoint-07cc90df8da3",
-        "img_url": "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png",
-        "snippet": "Exploring Near Field Communication security and how it can be audited using mobile tools."
+        "link": "https://medium.com/@nishanthabimanyu001/understanding-nfc-insights-and-risks-from-a-hackers-viewpoint-07cc90df8da3"
     }
 ]
 
@@ -63,7 +51,7 @@ def extract_image_and_snippet(html_content):
     img_tag = soup.find('img')
     img_url = img_tag['src'] if img_tag else "https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png"
     text = soup.get_text(separator=' ')
-    text = re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r"\s+", " ", text).strip()
     snippet = text[:150] + "..." if len(text) > 150 else text
     return img_url, snippet
 
@@ -71,7 +59,8 @@ def generate_markdown_cards(posts):
     if not posts: return ""
     markdown_output = "<table>\n"
     for post in posts:
-        markdown_output += f"""  <tr>
+        markdown_output += f"""
+  <tr>
     <td width="30%">
       <a href="{post['link']}">
         <img src="{post['img_url']}" alt="{post['title']}" width="100%">
@@ -86,12 +75,17 @@ def generate_markdown_cards(posts):
     markdown_output += "</table>\n"
     return markdown_output
 
+def generate_simple_list(posts):
+    if not posts: return ""
+    markdown_output = ""
+    for post in posts:
+        markdown_output += f"- [{post['title']}]({post['link']})\n"
+    return markdown_output
+
 def update_section(readme_content, marker_name, new_content):
     pattern = rf"(<!-- {marker_name}:START -->)(.*?)(<!-- {marker_name}:END -->)"
     if not re.search(pattern, readme_content, re.DOTALL):
         return readme_content
-    
-    # Use explicit strings instead of backreferences to avoid escaping issues
     replacement = f"<!-- {marker_name}:START -->\n{new_content}\n<!-- {marker_name}:END -->"
     return re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
@@ -116,11 +110,11 @@ def main():
             content = f.read()
         
         content = update_section(content, "MEDIUM", generate_markdown_cards(latest_posts))
-        content = update_section(content, "TERMUX", generate_markdown_cards(TERMUX_SERIES_POSTS))
+        content = update_section(content, "TERMUX", generate_simple_list(TERMUX_SERIES_POSTS))
         
         with open(README_FILE, 'w', encoding='utf-8') as f:
             f.write(content)
-        print("README.md updated successfully with Latest and Termux series.")
+        print("README.md updated successfully.")
     except Exception as e:
         print(f"Error: {e}")
 

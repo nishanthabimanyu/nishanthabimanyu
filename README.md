@@ -26,6 +26,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 
 <!-- MEDIUM:START -->
 <table>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/building-a-linux-container-in-500-ish-lines-of-code-c9c20fce7336?source=rss-cbd8a2394b65------2">
@@ -37,6 +38,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>I’ve been a Docker user for years. It’s reliable, I know the commands, and honestly, it just works. But recently, I finally decided to swap to Podman ...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/why-5k-developers-are-starring-coinbases-trust-minimizing-x402-payments-protocol-48a3955d730d?source=rss-cbd8a2394b65------2">
@@ -48,6 +50,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Hey guys! As a computer science student, I’m always on a look out for cool new projects on github, especially from big tech companies. I recently stum...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/the-reason-why-real-spies-were-obsessed-with-angry-birds-game-472d00c6c7cb?source=rss-cbd8a2394b65------2">
@@ -59,6 +62,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Note: This is the first part of a series focusing on the story behind the data leaks. Stay tuned for the follow-up article, where we will do a technic...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://blog.cubed.run/open-source-is-not-free-dont-let-a-license-kill-your-startup-5259f8077059?source=rss-cbd8a2394b65------2">
@@ -70,6 +74,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
       <p>Open Source is NOT Free — Don’t Let a License Kill Your Startup Today I want to share something really important. Actually, I was scrolling through my...</p>
     </td>
   </tr>
+
   <tr>
     <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/the-3-trillion-proof-that-you-dont-need-to-be-a-know-it-all-entrepreneur-265198390ccd?source=rss-cbd8a2394b65------2">
@@ -90,74 +95,12 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 ## 📱 Termux Series
 
 <!-- TERMUX:START -->
-<table>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/how-to-set-up-a-local-sql-database-on-your-phone-using-termux-no-root-required-69d2644211f3">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="How to Set Up a Local SQL Database on Your Phone Using Termux (No Root Required)" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/how-to-set-up-a-local-sql-database-on-your-phone-using-termux-no-root-required-69d2644211f3">How to Set Up a Local SQL Database on Your Phone Using Termux (No Root Required)</a></h3>
-      <p>Learn how to install and configure MySQL/MariaDB on your Android device using Termux for local development.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/master-linux-without-a-laptop-learn-using-just-your-phone-64860b2d6a78">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="Master Linux Without a Laptop — Learn Using Just Your Phone" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/master-linux-without-a-laptop-learn-using-just-your-phone-64860b2d6a78">Master Linux Without a Laptop — Learn Using Just Your Phone</a></h3>
-      <p>A beginner's guide to using Termux as a powerful Linux environment on the go.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/quick-ways-to-locate-your-files-downloads-in-termux-138374a58b29">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="Quick Ways to Locate Your Files & Downloads in Termux" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/quick-ways-to-locate-your-files-downloads-in-termux-138374a58b29">Quick Ways to Locate Your Files & Downloads in Termux</a></h3>
-      <p>Master the Termux file system and learn how to navigate between internal storage and Termux home.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/hands-on-with-termux-storage-setup-file-downloads-and-file-system-exploration-21c60be5508c">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="Hands-On with Termux — Storage Setup, File Downloads, and File System Exploration" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/hands-on-with-termux-storage-setup-file-downloads-and-file-system-exploration-21c60be5508c">Hands-On with Termux — Storage Setup, File Downloads, and File System Exploration</a></h3>
-      <p>Deep dive into termux-setup-storage and managing your mobile workspace efficiently.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/how-to-fix-termux-update-errors-by-changing-mirrors-5311f970e70a">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="How to Fix Termux Update Errors by Changing Mirrors…" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/how-to-fix-termux-update-errors-by-changing-mirrors-5311f970e70a">How to Fix Termux Update Errors by Changing Mirrors…</a></h3>
-      <p>Solving the 'Repository is under maintenance' and connection errors in Termux.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/understanding-nfc-insights-and-risks-from-a-hackers-viewpoint-07cc90df8da3">
-        <img src="https://miro.medium.com/v2/resize:fit:1024/1*App_41JJbfT7xR2Vj-rR9A.png" alt="Understanding NFC — Insights and Risks from a Hacker’s Viewpoint" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/understanding-nfc-insights-and-risks-from-a-hackers-viewpoint-07cc90df8da3">Understanding NFC — Insights and Risks from a Hacker’s Viewpoint</a></h3>
-      <p>Exploring Near Field Communication security and how it can be audited using mobile tools.</p>
-    </td>
-  </tr>
-</table>
+- [How to Set Up a Local SQL Database on Your Phone Using Termux (No Root Required)](https://medium.com/@nishanthabimanyu001/how-to-set-up-a-local-sql-database-on-your-phone-using-termux-no-root-required-69d2644211f3)
+- [Master Linux Without a Laptop — Learn Using Just Your Phone](https://medium.com/@nishanthabimanyu001/master-linux-without-a-laptop-learn-using-just-your-phone-64860b2d6a78)
+- [Quick Ways to Locate Your Files & Downloads in Termux](https://medium.com/@nishanthabimanyu001/quick-ways-to-locate-your-files-downloads-in-termux-138374a58b29)
+- [Hands-On with Termux — Storage Setup, File Downloads, and File System Exploration](https://medium.com/@nishanthabimanyu001/hands-on-with-termux-storage-setup-file-downloads-and-file-system-exploration-21c60be5508c)
+- [How to Fix Termux Update Errors by Changing Mirrors…](https://medium.com/@nishanthabimanyu001/how-to-fix-termux-update-errors-by-changing-mirrors-5311f970e70a)
+- [Understanding NFC — Insights and Risks from a Hacker’s Viewpoint](https://medium.com/@nishanthabimanyu001/understanding-nfc-insights-and-risks-from-a-hackers-viewpoint-07cc90df8da3)
 
 <!-- TERMUX:END -->
 
