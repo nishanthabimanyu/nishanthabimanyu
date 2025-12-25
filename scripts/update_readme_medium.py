@@ -90,7 +90,10 @@ def update_section(readme_content, marker_name, new_content):
     pattern = rf"(<!-- {marker_name}:START -->)(.*?)(<!-- {marker_name}:END -->)"
     if not re.search(pattern, readme_content, re.DOTALL):
         return readme_content
-    return re.sub(pattern, f"\1\n{new_content}\n\3", readme_content, flags=re.DOTALL)
+    
+    # Use explicit strings instead of backreferences to avoid escaping issues
+    replacement = f"<!-- {marker_name}:START -->\n{new_content}\n<!-- {marker_name}:END -->"
+    return re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
 
 def main():
     # 1. Fetch Latest Articles from RSS

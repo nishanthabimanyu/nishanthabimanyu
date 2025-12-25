@@ -24,7 +24,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 
 ## ✍️ Latest Medium Articles
 
-
+<!-- MEDIUM:START -->
 <table>
   <tr>
     <td width="30%">
@@ -83,13 +83,13 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
   </tr>
 </table>
 
-
+<!-- MEDIUM:END -->
 
 ---
 
 ## 📱 Termux Series
 
-
+<!-- TERMUX:START -->
 <table>
   <tr>
     <td width="30%">
@@ -159,7 +159,7 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
   </tr>
 </table>
 
-
+<!-- TERMUX:END -->
 
 ---
 
