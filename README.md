@@ -28,6 +28,17 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 <table>
   <tr>
     <td width="30%">
+      <a href="https://medium.com/@nishanthabimanyu001/so-china-might-be-about-to-wreck-nvidia-with-light-c689b305f5c1?source=rss-cbd8a2394b65------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*ob-YdS_kbOfx61BwkuiM3A.png" alt="So, China Might Be About to Wreck NVIDIA with Light?" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://medium.com/@nishanthabimanyu001/so-china-might-be-about-to-wreck-nvidia-with-light-c689b305f5c1?source=rss-cbd8a2394b65------2">So, China Might Be About to Wreck NVIDIA with Light?</a></h3>
+      <p>So, China Might Be About to Wreck NVIDIA with… Light? I knew that reading papers on creating images using light was a thing, but it looks like China h...</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/building-a-linux-container-in-500-ish-lines-of-code-c9c20fce7336?source=rss-cbd8a2394b65------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*pDhirqskWmfgbAdwdf0InA.png" alt="Building a Linux Container in 500(ish) Lines of Code" width="100%">
       </a>
@@ -68,17 +79,6 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
     <td>
       <h3><a href="https://blog.cubed.run/open-source-is-not-free-dont-let-a-license-kill-your-startup-5259f8077059?source=rss-cbd8a2394b65------2">Open Source is NOT Free — Don’t Let a License Kill Your Startup</a></h3>
       <p>Open Source is NOT Free — Don’t Let a License Kill Your Startup Today I want to share something really important. Actually, I was scrolling through my...</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/the-3-trillion-proof-that-you-dont-need-to-be-a-know-it-all-entrepreneur-265198390ccd?source=rss-cbd8a2394b65------2">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*5oMXMrAWRkOzggPhrLWUew.png" alt="The $3 Trillion Proof - That You Don’t Need to Be A Know It All Entrepreneur" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/the-3-trillion-proof-that-you-dont-need-to-be-a-know-it-all-entrepreneur-265198390ccd?source=rss-cbd8a2394b65------2">The $3 Trillion Proof - That You Don’t Need to Be A Know It All Entrepreneur</a></h3>
-      <p>The $3 Trillion Proof — That You Don’t Need to Be A Know It All Entrepreneur If you are starting a business right now, you probably have a voice in yo...</p>
     </td>
   </tr>
 </table>
