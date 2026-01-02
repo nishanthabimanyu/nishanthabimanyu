@@ -28,6 +28,17 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 <table>
   <tr>
     <td width="30%">
+      <a href="https://medium.com/@nishanthabimanyu001/before-i-rip-the-mask-off-science-fiction-day-a7b9651f2107?source=rss-cbd8a2394b65------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*ADVriRBwCGATiCUqzvLohw.png" alt="Before I rip the mask off Science Fiction Day," width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://medium.com/@nishanthabimanyu001/before-i-rip-the-mask-off-science-fiction-day-a7b9651f2107?source=rss-cbd8a2394b65------2">Before I rip the mask off Science Fiction Day,</a></h3>
+      <p>Let me tell you something about you right now. “You feel like you’re waiting for your ‘real life’ to start. You’re skeptical of the system, yet you se...</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/this-github-repo-is-a-literal-money-printer-for-n8n-developers-a9d0f037d14b?source=rss-cbd8a2394b65------2">
         <img src="https://cdn-images-1.medium.com/max/1024/1*QotpN0U-T2Po9iICIaXRig.png" alt="This GitHub Repo Is A Literal Money Printer For n8n Developers" width="100%">
       </a>
@@ -68,17 +79,6 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
     <td>
       <h3><a href="https://medium.com/@nishanthabimanyu001/why-5k-developers-are-starring-coinbases-trust-minimizing-x402-payments-protocol-48a3955d730d?source=rss-cbd8a2394b65------2">Why 5k Developers Are Starring Coinbase’s Trust-Minimizing x402 Payments Protocol</a></h3>
       <p>Hey guys! As a computer science student, I’m always on a look out for cool new projects on github, especially from big tech companies. I recently stum...</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/the-reason-why-real-spies-were-obsessed-with-angry-birds-game-472d00c6c7cb?source=rss-cbd8a2394b65------2">
-        <img src="https://cdn-images-1.medium.com/max/983/1*FXB0SPNWRThbqLzZ7Cedpw.png" alt="The Reason Why Real Spies Were Obsessed With Angry Birds Game" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/the-reason-why-real-spies-were-obsessed-with-angry-birds-game-472d00c6c7cb?source=rss-cbd8a2394b65------2">The Reason Why Real Spies Were Obsessed With Angry Birds Game</a></h3>
-      <p>Note: This is the first part of a series focusing on the story behind the data leaks. Stay tuned for the follow-up article, where we will do a technic...</p>
     </td>
   </tr>
 </table>
