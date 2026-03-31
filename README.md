@@ -28,6 +28,17 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 <table>
   <tr>
     <td width="30%">
+      <a href="https://medium.com/@nishanthabimanyu001/the-patent-that-actually-started-the-entire-ai-race-2b0f8c64e1ff?source=rss-cbd8a2394b65------2">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*yYpg0jQ86ZZ6hR3pvM7tcQ.png" alt="The Patent That Actually Started the Entire AI Race" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://medium.com/@nishanthabimanyu001/the-patent-that-actually-started-the-entire-ai-race-2b0f8c64e1ff?source=rss-cbd8a2394b65------2">The Patent That Actually Started the Entire AI Race</a></h3>
+      <p>If you’re a developer today, I know exactly how you feel. . You see OpenAI dropping Sora, Anthropic releasing Claude Code , and the open-source crowd ...</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
       <a href="https://medium.com/@nishanthabimanyu001/so-tony-stark-was-right-about-the-people-on-the-epstein-files-ca8d177d5cb6?source=rss-cbd8a2394b65------2">
         <img src="https://cdn-images-1.medium.com/max/643/1*AsbIVNB30KasUxxXswTHtw.png" alt="So, Tony Stark Was Right About the People on the Epstein Files" width="100%">
       </a>
@@ -68,17 +79,6 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
     <td>
       <h3><a href="https://medium.com/@nishanthabimanyu001/this-github-repo-is-a-literal-money-printer-for-n8n-developers-a9d0f037d14b?source=rss-cbd8a2394b65------2">This GitHub Repo Is A Literal Money Printer For n8n Developers</a></h3>
       <p>If you are an n8n developer, you know the realit — Time is money. Every hour you spend debugging a broken node or figuring out an authentication flow ...</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <a href="https://medium.com/@nishanthabimanyu001/so-china-might-be-about-to-wreck-nvidia-with-light-c689b305f5c1?source=rss-cbd8a2394b65------2">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*ob-YdS_kbOfx61BwkuiM3A.png" alt="So, China Might Be About to Wreck NVIDIA with Light?" width="100%">
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://medium.com/@nishanthabimanyu001/so-china-might-be-about-to-wreck-nvidia-with-light-c689b305f5c1?source=rss-cbd8a2394b65------2">So, China Might Be About to Wreck NVIDIA with Light?</a></h3>
-      <p>So, China Might Be About to Wreck NVIDIA with… Light? I knew that reading papers on creating images using light was a thing, but it looks like China h...</p>
     </td>
   </tr>
 </table>
