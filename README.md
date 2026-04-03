@@ -89,11 +89,12 @@ I currently work as a **Backend Developer Intern** at **[Springer Capital](https
 ## 🔒 Open Source & Private Contributions
 
 **Note on Activity:**
-While my public GitHub profile showcases my academic and personal projects, a significant portion of my technical contribution happens in **private repositories** for **research and experimental use** under **Section 47(3) of the Indian Patents Act, 1970**.
+While my public GitHub profile showcases my academic and personal projects, a significant portion of my technical contribution happens in **private repositories** for **research and experimental use** involving **expired patents** under **Section 47(3) of the Indian Patents Act, 1970**.
 
 * **Discord Community Leadership:** I am deeply involved in private technical communities on Discord, contributing to internal tools, bots, and architectural discussions.
 * **Technical Writing:** Authored **250+ articles** on [Medium](https://medium.com/@nishanthabimanyu001) covering OSINT, Networking, and Science.
 * **Internal Tooling & R&D:** Much of my automation work (n8n workflows, scripts) is developed for scientific inquiry and architectural study in private environments.
+
 
 
 ---
