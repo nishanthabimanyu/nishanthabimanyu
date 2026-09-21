@@ -14,9 +14,9 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Computer Science Engineer** and **Aspiring DevOps Specialist** based in Pollachi, India. My focus is on bridging the gap between development and operations through **Containerization (Docker/Podman)** and **Infrastructure Automation**.
+I am a **Computer Science Engineer** and **Multiplatform Developer** based in Niligiris, India. My focus is on bridging the gap between development and operations through **Containerization (Docker/Podman)** and **Infrastructure Automation**.
 
-I currently work as a **Backend Developer Intern** at **[Springer Capital](https://springercapital.com/)** (Remote, USA), where I architect scalable APIs and manage cloud deployments.
+I currently work as a **Backend Developer Intern** at **[Springer Capital](https://springercapital.com/)** , where I architect scalable APIs and manage cloud deployments.
 
 > **"Building robust systems that scale."**
 
